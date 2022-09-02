@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Filipe Henrique :D </h1>
-<h3 align="center">Desenvolvedor Frontend Jr.</h3>
+<h3 align="center">Engenheiro Eletrônico e, nas horas vagas, Desenvolvedor Frontend Jr.</h3>
 
 
 <br>
