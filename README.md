@@ -35,10 +35,10 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipehlreis&show_icons=true&theme=dark&locale=pt-BR&layout=compact" alt="filipehlreis" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filipehlreis&show_icons=true&theme=dark&locale=en" alt="filipehlreis" /></p>
 
-  
+  <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipehlreis&theme=dark" alt="filipehlreis" /></p>
   
 </div>
