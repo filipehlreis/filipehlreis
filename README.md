@@ -41,4 +41,6 @@
   <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipehlreis&theme=dark" alt="filipehlreis" /></p>
   
+  Venha, me acompanhe! :D
+  
 </div>
