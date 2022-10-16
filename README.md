@@ -41,6 +41,6 @@
   <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipehlreis&theme=dark" alt="filipehlreis" /></p>
   
-  Venha, me acompanhe! :D
+  Venha, me acompanhe, venha junto comigo nessa jornada de se tornar um grande dev! :D
   
 </div>
